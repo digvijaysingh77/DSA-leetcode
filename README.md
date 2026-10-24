@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0001-two-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -43,4 +44,20 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
