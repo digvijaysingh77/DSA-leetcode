@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0001-two-sum) |
+| [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
