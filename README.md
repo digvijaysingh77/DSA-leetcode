@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -31,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
