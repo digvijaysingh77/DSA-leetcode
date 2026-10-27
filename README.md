@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0682-baseball-game](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
