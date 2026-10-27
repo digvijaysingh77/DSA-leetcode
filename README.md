@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
