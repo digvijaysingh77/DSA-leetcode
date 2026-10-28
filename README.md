@@ -30,12 +30,14 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0155-min-stack](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
