@@ -36,6 +36,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
