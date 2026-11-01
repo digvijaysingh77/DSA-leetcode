@@ -15,10 +15,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -33,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0844-backspace-string-compare) |
 ## String
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0901-online-stock-span) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
