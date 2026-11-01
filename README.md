@@ -10,6 +10,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0682-baseball-game](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0009-palindrome-number](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
