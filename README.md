@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0682-baseball-game](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -18,6 +19,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
