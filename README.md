@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0503-next-greater-element-ii](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [1652-defuse-the-bomb](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/1652-defuse-the-bomb) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0844-backspace-string-compare) |
@@ -65,6 +67,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
