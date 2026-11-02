@@ -10,6 +10,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0682-baseball-game](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
+| [1652-defuse-the-bomb](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/1652-defuse-the-bomb) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
