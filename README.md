@@ -13,6 +13,7 @@
 | [0739-daily-temperatures](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0739-daily-temperatures) |
 | [1652-defuse-the-bomb](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/1652-defuse-the-bomb) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0342-power-of-four](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/digvijaysingh77/DSA-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
